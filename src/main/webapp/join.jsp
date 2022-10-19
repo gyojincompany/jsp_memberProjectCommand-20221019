@@ -10,7 +10,7 @@
 	<h3>회원 가입</h3>
 	<hr>
 	아이디 중복 여부 체크 : <br>
-	<form action="idCheck.jsp">
+	<form action="idCheck.do">
 		<input type="text" size="20" name="id">
 		<input type="submit" value="중복체크">
 	</form>
